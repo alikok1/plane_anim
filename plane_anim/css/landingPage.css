@@ -457,17 +457,17 @@ iframe{
 }
 @keyframes manuVer2{
     0% {
-        transform: translate(-175% ,-53%);
+        transform: translate(-180% ,-53%);
         visibility: hidden;
         z-index: 2;
     }
     5%{
-        transform: translate(-175% ,-53%);
+        transform: translate(-180% ,-53%);
         visibility: hidden;
 
     }
     20%{
-        transform: translate(-175% ,-53%);
+        transform: translate(-180% ,-53%);
         visibility: hidden;
 
     }
